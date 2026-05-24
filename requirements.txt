@@ -1,0 +1,8 @@
+faster-whisper
+edge-tts
+python-multipart
+fastapi
+langchain
+uvicorn
+python-dotenv
+langchain-ollama
